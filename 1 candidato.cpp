@@ -8,6 +8,7 @@ int main () {
 	ptr = &x;
 	
 	cout << *ptr; 
+	cout << ptr;
 
 	
 }
